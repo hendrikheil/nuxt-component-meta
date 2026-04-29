@@ -71,7 +71,7 @@
     "jiti": "^2.6.1",
     "json-schema-to-zod": "^2.7.0",
     "nuxt": "^4.2.2",
-    "release-it": "^19.2.3",
+    "release-it": "^20.0.1",
     "vitest": "^4.0.17",
     "vue": "^3.5.26"
   },
