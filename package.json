@@ -42,6 +42,8 @@
     "dev:generate": "nuxi generate playground",
     "dev:prepare": "nuxt-module-build build --stub && nuxi prepare playground",
     "lint": "eslint ",
+    "bench": "vitest bench --run",
+    "bench:ui": "vitest bench",
     "test": "vitest run",
     "test:ui": "vitest --ui",
     "verify": "pnpm dev:prepare && pnpm lint && pnpm test",
